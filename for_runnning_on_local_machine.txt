@@ -1,0 +1,1 @@
+vina --receptor 1_for_S1P_system_buildup_1st_frame_of_SPNS2_w_glucose_only_protein.pdbqt --ligand S1P_form_PDB_3I9G.pdbqt --config config.txt --log SPNS2_S1P.log --out SPNS2_S1P.pdbqt
